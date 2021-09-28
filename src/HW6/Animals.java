@@ -17,5 +17,4 @@ public class Animals {
         String name = (words[1]);
         return name;
     }
-
 }
